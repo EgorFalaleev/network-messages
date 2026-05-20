@@ -6,4 +6,4 @@ This repository solves the problem of Mirror's NetworkMessage system that discon
 
 - Clone the repository and run `NetworkMessages` scene;
 - Toggle a `Use Gui Logger` checkbox to switch between console and GUI logging;
-- Additionally you can download a build (Windows) and run multiple instances of it to test multiple clients connection
+- Additionally you can download a build (Windows) from a release page and run multiple instances of it to test multiple clients connection
